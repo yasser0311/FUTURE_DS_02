@@ -1,7 +1,6 @@
 ---
 
-````markdown
-# 📊 Marketing Campaign Analytics Dashboard - Power BI
+# 📊 Social Media Campaign Performance Tracker Dashboard - Power BI
 
 This Power BI dashboard project provides a comprehensive analysis of customer demographics, campaign effectiveness, and product purchase behaviors based on a cleaned marketing dataset.
 
@@ -109,5 +108,3 @@ Aspiring Data Scientist | Marketing Analytics Enthusiast
 ## 📬 Feedback / Questions
 
 Feel free to raise an issue or contact me on LinkedIn for suggestions, contributions, or questions!
-
-```
